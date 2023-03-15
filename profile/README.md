@@ -10,11 +10,15 @@ Para a organização e gerenciamento do fluxo de trabalho, 4 etapas foram defini
 
 Para a organização das tarefas, além da distribuição por participante, também foram taggeadas as ferramentas envolvidas para a sua realização, evidenciando assim o tipo de atividade, podendo ser uma tarefa relativa a documentação, algum script de Spark, SQL, Python ou alguma tarefa a ser desenvolvida na Azure. 
 
-### Aqui você encontra o [repositório](https://github.com/Accenture-Data-Engineer/Trabalho-final-grupo2) do nosso projeto, com códigos e dados em construção.
+### Aqui você encontra o [repositório](https://github.com/Accenture-Data-Engineer/Trabalho-final-grupo2) do nosso projeto, com os dados e códigos gerados.
 
-No repositório é possível observar a pasta "data" que contém tanto os arquivos ".csv" que foram fornecidos para a realização do projeto quanto os mesmos arquivos ".csvs" após serem tratados pelo processo de limpeza dos dados. 
+No repositório é possível observar a pasta "data" que contém tanto os arquivos ".csv" de transações e clientes que foram fornecidos para a realização do projeto quanto os mesmos arquivos ".csvs" após serem tratados pelo processo de limpeza dos dados. Na mesma pasta, também estão disponíveis arquivos ".csv" relativos as fraudes que foram obtidos após a etapa de processamento e análise dos dados.
 
-Também é possível verificar a pasta "code" no repositório, que contém os códigos utilizados para tratar os dados, para fazer a conexão com o banco de dados e o script utilizado para criar as tabelas no banco de dados.
+Também é possível verificar a pasta "code" no repositório, que contém os códigos utilizados para tratar os dados, para fazer a conexão com o banco de dados na Azure e no Power BI, scripts utilizados para criar e popular as tabelas no banco de dados, bem como scripts para filtrar e visualizar as fraudes.
+
+Na página inicial do repositório também é possível encontrar um arquivo "yaml" que facilita o uso do Spark através do docker, assim como um arquivo de texto com os requerimentos dos módulos necessários para sua utilização. 
+
+Por fim, também está disponível no repositório o dashboard gerado em Power BI com o relatório dos resultados obtidos no projeto.
 
 ![image](https://images.ctfassets.net/s5uo95nf6njh/1sPckZCyFnU2h8b8CwohdU/8647f46b8fd443fb5d748b46b857b21a/women-in-tech-python-hero.jpg?w=2000&fm=jpg)
 
