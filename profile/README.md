@@ -16,7 +16,7 @@ No repositório é possível observar a pasta "data" que contém tanto os arquiv
 
 Também é possível verificar a pasta "code" no repositório, que contém os códigos utilizados para tratar os dados, para fazer a conexão com o banco de dados na Azure e no Power BI, scripts utilizados para criar e popular as tabelas no banco de dados, bem como scripts para filtrar e visualizar as fraudes.
 
-Na página inicial do repositório também é possível encontrar um arquivo "yaml" que facilita o uso do Spark através do docker, assim como um arquivo de texto com os requerimentos dos módulos necessários para sua utilização. 
+Na página inicial do repositório também é possível encontrar um arquivo "yaml" que facilita o uso do Spark através do docker, assim como um arquivo de texto com os requerimentos dos módulos necessários para a reprodução dos códigos. 
 
 Por fim, também está disponível no repositório o dashboard gerado em Power BI com o relatório dos resultados obtidos no projeto.
 
